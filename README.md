@@ -16,6 +16,52 @@ An AI-powered **Insider Threat and Anomaly Detection & Monitoring System** that 
 **AI:** Groq API (Llama 3.x)  
 **Storage:** CSV (prototype)
 
+## 📸 Project Outputs
+
+## 📸 Model Outputs & AI Incident Reports
+
+### 🔍 Anomaly Detection & Risk Scoring (Backend)
+Terminal output showing detected anomalies and risk-level distribution after model inference.
+
+![Anomaly Detection Output](assets/screenshots/anomaly_detection_output.png)
+
+---
+
+### 📊 Risk-Scored Log Preview
+Sample view of model output with anomaly scores mapped to human-readable risk levels.
+
+![Risk Scoring Preview](assets/screenshots/risk_scoring_preview.png)
+
+---
+
+### 🧾 AI-Generated Incident Report (Text Output)
+LLM-generated insider threat incident report created from high-risk behavioral patterns.
+
+![AI Incident Report](assets/screenshots/ai_incident_report.png)
+
+
+## 🖥️ Frontend Dashboard & Explainability
+
+### 📊 Insider Threat Dashboard Overview
+Interactive dashboard displaying overall record counts, risk distribution, and severity indicators.
+
+![Dashboard Overview](assets/screenshots/dashboard_overview.png)
+
+---
+
+### 🔍 User-Level Explainability & Behavioral Signals
+Detailed analyst view showing user-specific signals and SHAP-based feature contributions.
+
+![User Explainability](assets/screenshots/user_explainability_view.png)
+
+---
+
+### 🧠 AI-Generated Incident Report (UI View)
+AI-written incident report rendered directly inside the dashboard for analyst investigation.
+
+![AI Incident Modal](assets/screenshots/ai_incident_modal.png)
+
+
 ## ▶️ How to Run
 ### Backend
 ```bash
