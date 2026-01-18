@@ -1,0 +1,12 @@
+venv/
+.venv/
+node_modules/
+
+data/
+data/**/*.csv
+
+*.pkl
+*.joblib
+.env
+.vscode/
+.ipynb_checkpoints/
