@@ -61,6 +61,12 @@ AI-written incident report rendered directly inside the dashboard for analyst in
 
 ![AI Incident Modal](assets/screenshots/ai_incident_modal.png)
 
+## 🏗️ System Architecture & Data Flow
+
+The following diagram illustrates the end-to-end architecture of the Context-Aware Insider Threat Detection system, showing how multi-source user activity logs are processed, analyzed using machine learning models, enriched with explainability and AI-generated reports, and finally visualized through a ReactJS dashboard.
+
+![System Architecture](assets/architecture/system_architecture.png)
+
 
 ## ▶️ How to Run
 ### Backend
