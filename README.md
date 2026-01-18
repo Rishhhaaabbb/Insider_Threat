@@ -82,6 +82,8 @@ npm run dev
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+|-assets/
+└── screenshots/
 
 
 🎯 Objective
